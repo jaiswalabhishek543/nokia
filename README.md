@@ -1,2 +1,2 @@
 # nokia
-File upload, download and list all files in storage.
+File upload, download and list all available files in storage.
